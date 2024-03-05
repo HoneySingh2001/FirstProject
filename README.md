@@ -1,1 +1,1 @@
-# Fake News Classifier Using LSTM Project
+# Fake-New-LSTM
